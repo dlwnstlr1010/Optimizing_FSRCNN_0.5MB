@@ -1,0 +1,2 @@
+Best Model: d56_s51_m4
+PSNR: 30.63
